@@ -100,3 +100,4 @@ console.assert(
     assessment('次郎') === assessment('太郎'),
     '出力結果が一致しません。'
 );
+//test
